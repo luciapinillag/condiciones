@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: brown;
+    color: blanchedalmond;
+    height: 100vh;
+}
+
+img {
+    width: 200px;
+}
+
+section {
+    margin: 30px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.boton {
+    display: flex;
+    justify-content: center;
+   
+}
+button{
+    background-color: rgb(150, 122, 122);
+    width: 150px;
+    height: 55px;
+    border: none;
+    color: white;
+    font-weight: 700;
+    font-size: medium;
+    letter-spacing: 1.5px;
+    border-radius: 15px;
+}
+p{
+    text-align: center;
+}
